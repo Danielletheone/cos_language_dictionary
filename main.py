@@ -4,3 +4,4 @@ dictionary = {
     "iyawo": "wife", "ounje": "food","omi": "water", "orun": "heaven", "aye": "earth", "okan": "heart", "owo": "hand",
     "oko": "farm", "ojo": "day", "orun": "sleep"
 }
+}
